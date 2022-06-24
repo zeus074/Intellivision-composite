@@ -34,3 +34,5 @@ PCB view:
 ![alt text](https://github.com/zeus074/Intellivision-composite/blob/main/pcb.jpg)
 
 The diagram and the gerber can be found in the relative folder.
+
+View it on Wiki: http://wiki.intellivision.us/index.php/Intellivision_Composite_Video_Modification
