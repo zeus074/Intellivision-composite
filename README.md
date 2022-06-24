@@ -30,6 +30,7 @@ Motherboard pinout example:
 ![alt text](https://github.com/zeus074/Intellivision-composite/blob/main/intellivision-point.jpg)
 
 PCB view:
+
 ![alt text](https://github.com/zeus074/Intellivision-composite/blob/main/pcb.jpg)
 
 The diagram and the gerber can be found in the relative folder.
